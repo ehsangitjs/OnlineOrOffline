@@ -4,7 +4,7 @@ This is a Electron app
 
 ![Screenshot](image/Screenshot.png)
 
-### This app says you are offline or online
+### This app says you are offline or online.
 
 How to Use?
 -----------
